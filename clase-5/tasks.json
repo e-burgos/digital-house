@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Tarea 1",
+        "deadline": "09/10/2020",
+        "done": true
+    },
+    {
+        "name": "Tarea 2",
+        "deadline": "15/10/2020",
+        "done": false
+    },
+    {
+        "name": "Tarea 3",
+        "deadline": "20/10/2020",
+        "done": false
+    }
+]
